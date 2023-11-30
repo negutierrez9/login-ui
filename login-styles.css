@@ -1,0 +1,10 @@
+.body {
+   font-family: Arial, sans-serif;
+   justify-content: center;
+   height: 100px;
+};
+
+.h1 {
+    font-size: 15px;
+    justify-content: center;
+}
